@@ -5,7 +5,7 @@ API_KEY = "1595620905:AAE70FUVJBAXQb4gInwrlu4o_aAJQIOyaOw"
 
 
 def start_command(update, context):
-    update.message.reply_text("Type something random to get started!")
+    update.message.reply_text("Type anything to get started!")
 
 
 def help_command(update, context):
