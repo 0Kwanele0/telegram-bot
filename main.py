@@ -1,7 +1,7 @@
 from telegram.ext import *
 import Messages as M
 
-API_KEY = "1595620905:AAE70FUVJBAXQb4gInwrlu4o_aAJQIOyaOw"
+API_KEY = ""
 
 
 def start_command(update, context):
